@@ -39,4 +39,49 @@ I'd better lock it up.</td>
     <td>Lesson 32
 You're headed for trouble.  </td>
   </tr>
+      <tr>
+    <td>12月30日</td>
+    <td>Lesson 5
+It's such a waste of time.</td>
+    <td>Lesson 47
+Give me a second. I've got something to say.</td>
+    <td>Lesson 33
+Don't you dare！  </td>
+  </tr>
+        <tr>
+    <td>12月31日</td>
+    <td>Lesson 6
+Wow. What a big boy!
+Wow,really?That's hard to believe.</td>
+    <td>Lesson 48
+By the way, you look really young. </td>
+    <td>Lesson 34
+Who do you think you’re talking to?</td>
+  </tr>
+          <tr>
+    <td>1月1日</td>
+    <td>Lesson 7
+You sound horrible!</td>
+    <td>Lesson 49
+Don't judge a person by his appearance.  </td>
+    <td>Lesson 35 
+Dude, it's so dope!</td>
+  </tr>
+            <tr>
+    <td>1月2日</td>
+    <td>Lesson 8
+Come on, spit it out.</td>
+    <td>Lesson 50
+Can you refresh my memory?  </td>
+    <td>Lesson 36
+Try to get in around nine.  </td>
+  </tr>
+              <tr>
+    <td>1月3日</td>
+    <td>Lesson 9
+How did you enjoy your stay, Mr. Robinson?</td>
+    <td>未更新</td>
+    <td>Lesson 37 
+Guys, help me straighten up a little please.</td>
+  </tr>
 </table>
