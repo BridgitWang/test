@@ -1,5 +1,5 @@
 # test
-just for test（first time）
+1226期百日尊享口语纠音打卡金句
 <table border="1">
   <tr>
     <th>日期</th>
