@@ -84,4 +84,20 @@ How did you enjoy your stay, Mr. Robinson?</td>
     <td>Lesson 37 
 Guys, help me straighten up a little please.</td>
   </tr>
+                <tr>
+    <td>1月4日</td>
+    <td>Lesson 10
+You made these from scratch?</td>
+    <td>未更新</td>
+    <td>Lesson 38
+He’s a guy from my apartment complex.</td>
+  </tr>
+                  <tr>
+    <td>1月5日</td>
+    <td>Lesson 11
+You know, I'd love to, but I can't.</td>
+    <td>未更新</td>
+    <td>Lesson 39
+So Claire, what do you do?</td>
+  </tr>
 </table>
