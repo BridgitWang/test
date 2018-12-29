@@ -87,7 +87,7 @@ Guys, help me straighten up a little please.</td>
                 <tr>
     <td>1月4日</td>
     <td>Lesson 10
-①You made these from scratch?②I can bury the old me and start a new.</td>
+I can bury the old me and start a new.</td>
     <td>未更新</td>
     <td>Lesson 38
 He’s a guy from my apartment complex.</td>
