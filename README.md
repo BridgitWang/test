@@ -70,7 +70,7 @@ Dude, it's so dope!</td>
             <tr>
     <td>1月2日</td>
     <td>Lesson 8
-Come on, spit it out.</br>Just say what’s on your mind.</td>
+①Come on, spit it out.②Just say what’s on your mind.</td>
     <td>Lesson 50
 Can you refresh my memory?  </td>
     <td>Lesson 36
@@ -79,7 +79,7 @@ Try to get in around nine.  </td>
               <tr>
     <td>1月3日</td>
     <td>Lesson 9
-How did you enjoy your stay, Mr. Robinson?</td>
+①How did you enjoy your stay, Mr. Robinson?②Please enjoy yourself.</td>
     <td>未更新</td>
     <td>Lesson 37 
 Guys, help me straighten up a little please.</td>
@@ -87,7 +87,7 @@ Guys, help me straighten up a little please.</td>
                 <tr>
     <td>1月4日</td>
     <td>Lesson 10
-You made these from scratch?</td>
+①You made these from scratch?②I can bury the old me and start a new.</td>
     <td>未更新</td>
     <td>Lesson 38
 He’s a guy from my apartment complex.</td>
