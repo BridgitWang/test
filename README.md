@@ -61,7 +61,7 @@ Who do you think you’re talking to?</td>
           <tr>
     <td>1月1日</td>
     <td>Lesson 7
-You sound horrible!</td>
+You sound horrible!</br>I feel like crap.</td>
     <td>Lesson 49
 Don't judge a person by his appearance.  </td>
     <td>Lesson 35 
@@ -70,7 +70,7 @@ Dude, it's so dope!</td>
             <tr>
     <td>1月2日</td>
     <td>Lesson 8
-Come on, spit it out.</td>
+Come on, spit it out.</br>Just say what’s on your mind.</td>
     <td>Lesson 50
 Can you refresh my memory?  </td>
     <td>Lesson 36
