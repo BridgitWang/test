@@ -79,12 +79,18 @@ Try to get in around nine.  </td>
               <tr>
     <td>1月3日</td>
     <td>Lesson 9
-①How did you enjoy your stay, Mr. Robinson?②Please enjoy yourself.</td>
-    <td>未更新</td>
+①Some people just enjoy shopping for no reason.
+②How was your first day at the new job?
+③I think I need you to change my flight again.</td>
+    <td>①How'd you manage to pull that off?
+②You're gonna practice two hours a day, seven days a week until you nail it. 
+③I'll make it. </td>
     <td>Lesson 37 
-Guys, help me straighten up a little please.</td>
+①Guys, help me straighten up a little please.
+②Could you please help with this?
+③Can you do me a favor?</td>
   </tr>
-                <tr>
+  <tr>
     <td>1月4日</td>
     <td>Lesson 10
 I can bury the old me and start a new.</td>
