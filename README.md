@@ -82,7 +82,8 @@ Try to get in around nine.  </td>
 ①Some people just enjoy shopping for no reason.
 ②How was your first day at the new job?
 ③I think I need you to change my flight again.</td>
-    <td>①How'd you manage to pull that off?
+    <td>Lesson 51
+①How'd you manage to pull that off?
 ②You're gonna practice two hours a day, seven days a week until you nail it. 
 ③I'll make it. </td>
     <td>Lesson 37 
