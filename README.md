@@ -94,17 +94,47 @@ Try to get in around nine.  </td>
   <tr>
     <td>1月4日</td>
     <td>Lesson 10
-I can bury the old me and start a new.</td>
-    <td>未更新</td>
-    <td>Lesson 38
-He’s a guy from my apartment complex.</td>
+①I can bury the old me and start a new.
+②I can bury the old me and start a new.
+③I'm turning over a new leaf.</td>
+    <td>Lesson 52
+①There's some kind of funky odor in here.
+②Your feet stink. Were you showering?
+③His breath is incredibly nasty. It's rank.</td>
+    <td>
+Lesson 38
+①He’s a guy from my apartment complex.
+②Whoˈs this fella?
+③You also have a god complex.</td>
   </tr>
-                  <tr>
+    <tr>
     <td>1月5日</td>
     <td>Lesson 11
-You know, I'd love to, but I can't.</td>
-    <td>未更新</td>
+①You know, I'd love to, but I can't.
+②I'm afraid not.
+③But thanks anyway.</td>
+    <td>Lesson 53
+①There's nothing good on right now.
+②You can change the channel with this guy. 
+③Why do you always watch reruns? </td>
     <td>Lesson 39
-So Claire, what do you do?</td>
+①So Claire, what do you do?
+②What do you do for a living?
+③What line of work do you do?</td>
+  </tr>
+      <tr>
+    <td>1月6日</td>
+    <td>Lesson 12 
+①I highly recommend it.
+②He was really talking this place up. 
+③You should suggest something like these to him. </td>
+    <td>Lesson 54
+①Make sure they're cooked all the way through. 
+②If you don't want it sunny-side up, I can make it over easy.
+③Want to see scrambled? </td>
+    <td>Lesson 40  
+①Actually, I'm looking to switch careers.   
+②Well, thereˈs more to life than just your career, isnˈt there?
+③Itˈs a career-defining opportunity.</td>
   </tr>
 </table>
